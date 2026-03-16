@@ -1,0 +1,136 @@
+body  {
+    
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.top-bar{
+
+    background-color: #C4170C;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 26px;
+
+}
+
+.little-tittle{
+    background-color: #a6130a;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: small;
+}
+
+.header{
+
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+
+}
+
+.facepng{
+
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
+    padding-right: 20px;
+    
+}
+
+.instapng{
+
+    width: 22px;
+    height: 18px;
+    padding-right: 20px;
+
+}
+
+.whatspng{
+
+    padding-right: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.redes-sociais{
+
+    text-align: center;
+    padding-left: 28px;
+
+}
+
+.hr{
+
+    opacity:calc(30%);
+    
+
+}
+
+.container{
+
+    max-width: 1000px;
+    max-height: 1000px;
+    margin: auto;
+    
+
+}
+
+.figure{
+
+    opacity: calc(60%);
+    font-size: small;
+
+}
+
+.video{
+
+    padding: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+
+.RedWords{
+
+    color: #a6130a;
+    font-size: large;
+    font-weight: 700;
+
+}
+
+.content{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+p {
+    font-size: larger;
+}
+
+.h2 {
+    font-size: 200;
+}
+
+.figcaption {
+
+    padding-top: 20px; 
+    padding-bottom: 20px;
+
+}
+
+footer {
+
+
+    margin-top: 2700px;
+    padding: 80px;
+    background-color: #a6130a;
+    color: white;
+
+}
